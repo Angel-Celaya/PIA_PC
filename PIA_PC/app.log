@@ -1,0 +1,3 @@
+INFO:root:Se mostraron enlaces con webscraping
+INFO:root:Se descargaron PDFs con webscraping
+ERROR:root:Ha ocurrido un error [Errno 13] Permission denied: 'images/'
